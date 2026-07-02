@@ -1,0 +1,26 @@
+[
+  {
+    "placa": "BGT5D85",
+    "modelo": "tracker",
+    "cliente": "zarp",
+    "vendedor": "Maíra",
+    "status": "aguardando",
+    "descricao": "Puquero alinhando"
+  },
+  {
+    "placa": "ABC4545",
+    "modelo": "Onix",
+    "cliente": "Localiza",
+    "vendedor": "Pedro",
+    "status": "em serviço",
+    "descricao": "funilaria das portas"
+  },
+  {
+    "placa": "KKK4444",
+    "modelo": "ONIX",
+    "cliente": "RAC",
+    "vendedor": "Madalena",
+    "status": "finalizado",
+    "descricao": "GGGGGGGGGGGGGGGGGGGGGGGGGGGGG"
+  }
+]
