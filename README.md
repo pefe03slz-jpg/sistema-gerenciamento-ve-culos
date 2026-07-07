@@ -6,3 +6,5 @@ O programa armazena os dados em arquivos JSON, garantindo persistência entre ex
 Entre as funcionalidades disponíveis estão a exibição dos carros em uma tabela interativa, pesquisa por placa, vendedor ou status, adição de novos registros com validação, edição de informações já cadastradas e remoção automática de veículos finalizados. Também é possível gerenciar vendedores, adicionando ou removendo nomes conforme necessário.
 
 Para executar o sistema, basta ter Python 3 instalado e rodar o arquivo principal do projeto. A interface gráfica será aberta e estará pronta para uso imediato.
+
+OBS: carros_data.json e vendedores_data.json não representam dados reais.
